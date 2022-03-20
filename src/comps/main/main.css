@@ -1,0 +1,99 @@
+.content {
+  padding-bottom: 20rem;
+}
+
+.services {
+  background-color: #d0d8da;
+  padding: 1rem;
+  margin-top: 1rem !important;
+}
+
+.card-gray {
+  background-color: #d0d8da;
+  border-radius: 5px;
+  padding: 1rem 2rem;
+  color: white;
+}
+
+.card-green {
+  background-color: #0eb8b6;
+  border-radius: 5px;
+  padding: 1rem 2rem;
+  color: white;
+}
+
+.card-gray .text {
+  font-size: 1.25rem;
+}
+
+.card-green .text {
+  font-size: 1.25rem;
+}
+
+.btn-gray {
+  background-color: #d0d8da !important;
+  margin-bottom: 1rem;
+  color: gray !important;
+}
+
+.btn-green {
+  background-color: #0eb8b6 !important;
+  margin-bottom: 1rem;
+  color: white !important;
+}
+
+.btn-white {
+  background-color: white !important;
+  color: #0eb8b6 !important;
+  border: 1px solid #0eb8b6 !important;
+  margin-bottom: 1rem;
+}
+
+.credit-card {
+  background-color: #f0f4f5;
+  padding: 2rem 1rem;
+}
+
+.btn-round {
+  border-radius: 1.5rem !important;
+  padding: 0.5rem 1rem !important;
+}
+
+.btn-gray1 {
+  background-color: #d0d8da !important;
+  margin-bottom: 1rem;
+  color: gray !important;
+}
+
+.parking-label {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 54px;
+  color: #09425a;
+}
+
+.paypal-logo {
+  width: 32px;
+  height: 29px;
+}
+.ardencia {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #009abb;
+}
+.privato {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #FFFFFF;
+    
+}

@@ -1,0 +1,16 @@
+.header-background {
+    background-color: #08425a;
+}
+
+.menu-flags {
+    color: black;
+    background-color: white;
+    padding-bottom: 0 !important;
+    border-radius: 5px;
+}
+.logo {
+    width: 191px;
+    height: 67px;
+    left: 176px;
+    top: 41px;
+}

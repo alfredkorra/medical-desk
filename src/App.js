@@ -1,9 +1,11 @@
-import Header from "./components/Header";
-import Footer from "./components/Footer";
+import React from 'react';
+import Layout from "./layout";
+import Main from "./comps/main/main";
 function App() {
   return (
-    <><Header/>
-    <Footer/></>
+    <Layout>
+    <Main/>
+    </Layout>
     );
   }
   
